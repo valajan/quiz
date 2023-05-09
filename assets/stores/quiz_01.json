@@ -1,0 +1,10 @@
+{
+  "name": "Demon Slayer - Quiz Général",
+  "data": [
+    {
+      "questionText": "Quel est le nom de Tanjiro ?",
+      "options": ["Kamayo", "Kamazo", "Kamado", "Kamago"],
+      "answerIndex": "2"
+    }
+  ]
+}

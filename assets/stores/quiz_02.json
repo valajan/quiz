@@ -1,0 +1,10 @@
+{
+  "name": "Jujutsu Kaisen - Quiz Général",
+  "data": [
+    {
+      "questionText": "Quel est le nom de Gojo ?",
+      "options": ["Satoyu", "Satoru", "Satoju", "Satogu"],
+      "answerIndex": "1"
+    }
+  ]
+}

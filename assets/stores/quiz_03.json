@@ -1,0 +1,10 @@
+{
+  "name": "Hell's Paradise - Quiz Général",
+  "data": [
+    {
+      "questionText": "Quel est le nom du clan des éxécuteurs ?",
+      "options": ["Yamada", "Yamaha", "Yamaza", "Yamaka"],
+      "answerIndex": "0"
+    }
+  ]
+}
